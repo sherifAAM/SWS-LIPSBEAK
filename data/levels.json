@@ -1,0 +1,10 @@
+[
+    { "level": "Beginner", "lessonNumber": 1, "content": "Introduction to lip-reading basics.", "test": false },
+    { "level": "Beginner", "lessonNumber": 25, "content": "Beginner Test", "test": true },
+    { "level": "Mediator", "lessonNumber": 1, "content": "Intermediate lip-reading techniques.", "test": false },
+    { "level": "Mediator", "lessonNumber": 25, "content": "Mediator Test", "test": true },
+    { "level": "Professional", "lessonNumber": 1, "content": "Advanced lip-reading challenges.", "test": false },
+    { "level": "Professional", "lessonNumber": 25, "content": "Professional Test", "test": true },
+    { "level": "Star", "lessonNumber": 1, "content": "Master-level lip-reading exercises.", "test": false },
+    { "level": "Star", "lessonNumber": 25, "content": "Star Test", "test": true }
+]
